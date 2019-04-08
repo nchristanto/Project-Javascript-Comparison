@@ -2,7 +2,7 @@
 
 Project Javascript experimenting comparison operators and conditional operators 
 
-###Features 
+### Features 
 
 Comparison operators: ===. !==, >, >= 
 Conditional operators: if, else, and switch case
