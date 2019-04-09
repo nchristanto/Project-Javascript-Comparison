@@ -32,8 +32,8 @@ switch (job) {
     case 'student':
         console.log('Code');
         break 
-    case 'sailor':
-        console.log('Forever sail'); 
+    case 'Fisherman':
+        console.log('Fish'); 
         break
 }
 
