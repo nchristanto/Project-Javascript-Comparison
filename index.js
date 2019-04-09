@@ -1,15 +1,15 @@
-//Example 1
-//ternary operator
+// Example 1
+// Ternary operator
 let age = 18; 
-const canhaveKTP = age >= 21? 'You may register.' : 'You may not register';
-console.log(canhaveKTP)
+const canHaveNationalID = age >= 21 ? 'You may register.' : 'You are not able to register yet!';
+console.log(canHaveNationalID)
 
 
-//Example 2 
-//Javascript operand
+// Example 2 
+// Javascript operand
 // let grade = 89; 
 let grade = 30; 
-if  (grade >= 90) {
+if (grade >= 90) {
     console.log('Congratulations you got A!')
 } else if (grade >= 80) {
     console.log('Well done, you score B!')
@@ -22,18 +22,18 @@ if  (grade >= 90) {
 }
 
 // Example 3
-// switch case
+// Switch case
 let job = 'student'
 
 switch (job) {
-    case 'dokter':
-        console.log('ngobatin'); 
+    case 'doctor':
+        console.log('Heal patient'); 
         break
     case 'student':
-        console.log('koding');
+        console.log('Code');
         break 
     case 'sailor':
-        console.log('mancing'); 
+        console.log('Forever sail'); 
         break
 }
 
